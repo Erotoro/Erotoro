@@ -1,6 +1,6 @@
-Hi, I'm Erotoro 
-My name is Max
-I develop plugins
-I create custom plugins!
-Drop me a line on Discord – @erotoro32
-Or on Telegram – @Erotoro001
+- Hi, I'm **Erotoro**
+- My name is **Max**
+- I develop plugins
+- **I create custom plugins!**
+- Message me on **Discord** to place an order – _**@erotoro32**_
+- Or on **Telegram** to place an order – _**@Erotoro001**_
