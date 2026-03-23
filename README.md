@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @Erotoro
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Erotoro/Erotoro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, I'm Erotoro 
+My name is Max
+I develop plugins
+I create custom plugins!
+Drop me a line on Discord – @erotoro32
+Or on Telegram – @Erotoro001
