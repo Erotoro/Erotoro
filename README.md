@@ -1,7 +1,7 @@
 - Hi, I'm **Erotoro**
 - My name is **Max**
-- I develop plugins
-- **I create custom plugins for Minecraft!**
+- I am a developer of Minecraft plugins and mods.
+- **I create custom plugins and mods for Minecraft!**
 - Message me on **Discord** to place an order – _**@erotoro32**_
 - Or on **Telegram** to place an order – _**@Erotoro001**_
 - Supported me - https://ko-fi.com/erotoro
