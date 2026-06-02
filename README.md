@@ -16,7 +16,7 @@ If you want to order a custom plugin or mod, message me here:
 
 If you want to support my work:
 
-- **Ko-fi:** [ko-fi.com/erotoro](https://ko-fi.com/erotoro)
+- **Ko-fi:** <a href='https://ko-fi.com/erotoro' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi4.png?v=6' border='0' alt='Support Me a Coffee at ko-fi.com' /></a>
 
 Thanks for visiting <3
 
